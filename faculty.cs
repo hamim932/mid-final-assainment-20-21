@@ -28,7 +28,7 @@ class Program
         Section B3 = new Section("B", A2, G1);
         Section B4 = new Section("B", A2, G2);
         Section B5 = new Section("A", A2, G3);
-        Section B6 = new Section("A", A2, G3);
+       
 
         d1.AddCourse(G1, G2, G3);
 
@@ -48,7 +48,7 @@ class Program
         A2.AddFacultySection(s3);
         A2.AddFacultySection(s4);
         A2.AddFacultySection(s5);
-        A2.AddFacultySection(s6);
+      
 
        
         
